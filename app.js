@@ -41,3 +41,27 @@ books[1] = "Dune"
 books.forEach((book) => {
   console.log(book)
 })
+
+array.push = is to add new element to the end of the array
+7:58
+array.pop() will remove the last one
+7:59
+array.slice(index,how many element) like array.slice(2,1) will remove the third element only
+
+
+M.Rajab
+  8:22 PM
+for (const grade of grades){
+if (hiegtest < grade){
+hightest = grade
+}
+}
+consol.log(hightest) this new for loop called for of used with arrays
+8:22
+hightest = 0
+for (const grade of grades){
+if (hiegtest < grade){
+hightest = grade
+}
+}
+consol.log(hightest) this new for loop called for of used with arrays
